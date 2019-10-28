@@ -11,5 +11,5 @@ Java Tutorials
   - Sl4j Logger - 1 day
   - Security - 1 day
   - Docker - 2 days
-  - Github - 2 days
+  - Github - 1 days
   - Assessment - 3 days
