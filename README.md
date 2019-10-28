@@ -4,7 +4,7 @@ Java Tutorials
 ## Learning Table
   - Java 8 & Later - 3 days 
   - Spring Boot Framework and setup - 1 days
-  - MVC Pattern with practice - 2 days
+  - MVC Design Pattern with practice - 2 days
   - Hibernate and JPA with practice - 2 days
   - Kafka Integration with Practice - 2 days 
   - Mocks & Testing - 2 days
