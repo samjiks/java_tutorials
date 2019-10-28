@@ -1,4 +1,4 @@
-# java_tutorials
+# Java Tutorials
 Java Tutorials
 
 ## Learning Table
