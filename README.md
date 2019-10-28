@@ -13,4 +13,4 @@ Java Tutorials
   - Docker - 2 days
   - Github - 1 days
   - Assessment - 3 days
-  - Elastic, Kibana q and Logstash - 1 day
+  - Elastic, Kibana and Logstash - 1 day
