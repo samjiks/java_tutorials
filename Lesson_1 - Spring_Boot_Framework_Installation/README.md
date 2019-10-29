@@ -2,7 +2,7 @@
 
 - Spring Boot Framework was build on the idea of developing microservices
 
-### Advantages of Spring Boot
+## Advantages of Spring Boot
 
 * Provides a flexible way to configure Java Beans, XML configurations, and Database Transactions
 * Provides a powerful batch processing and manages REST endpoints.
@@ -33,7 +33,7 @@
   - spring-boot-starter-security
   - spring-boot-starter-test - Writing Test case
 
-'''
+@'''
 package com.samjiks.product;
 
 import org.springframework.boot.SpringApplication;
@@ -49,5 +49,37 @@ public class ProductServiceApplication {
 }
 '''
 
+Gradle 
+
+Some commands you would like to know for a start
+
+* ./gradlew tasks -> to see a list of gradle tasks
+
+* task zip(type: Zip, group: "Archive", description: "Archives sources in a zip file") {
+    from "src"
+    setArchiveName "*product-1.0.zip"
+}
+
+    ./gradlew zip
 
 
+## How to Run?
+
+Go to root folder of the project
+
+To build the application
+gradle clean build
+
+To run the Spring the Application
+java -jar build/lib/product.*.SNAPSHOT-1.0.0.jard
+
+
+## Tight Coupling? Why we need to loose coupled application
+
+
+
+
+## Beans
+What are beans?
+What are the depenedcies of bean
+where to search for beans?
